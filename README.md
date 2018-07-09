@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Hello world
 
-You can use the [editor on GitHub](https://github.com/vanlanhnguyen/vanlanhnguyen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Nguyen Van Lanh
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Nguyen Van Lanh, I have just finished my Master thesis at Siemens PLM, Belgium and graduated Master of Control System Engineering at HAN University of Applied Science, the Netherlands. I am also a lecturer at Thai Nguyen University of Technology, Vietnam, Faculty of International Training, Division of Electrical Engineering. 
 
 ```markdown
 Syntax highlighted code block
